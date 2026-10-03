@@ -2,7 +2,7 @@
   "name": "fitness-backend-final",
   "version": "1.0.0",
   "private": true,
-  "description": "健身房後端 API — 最終作業驗收包。前端、Swagger、測試都在這裡。",
+  "description": "FitConnect：具備 JWT、角色權限、課程預約與點數規則的健身教練媒合平台",
   "scripts": {
     "start": "node .github/scripts/check-backend.js && npm --prefix backend start",
     "test": "jest --runInBand",
